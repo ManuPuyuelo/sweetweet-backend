@@ -1,4 +1,4 @@
-# Sweetweet - Backend
+# 🐦 Sweetweet - Backend
 
 Social web app for exchanging opinions
 
